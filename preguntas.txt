@@ -1,0 +1,8 @@
+['1', 'Matemáticas', '¿Cuál es la derivada de 2x^2?', '2x^2', '4x', '4x^2', '2x', '4x']
+['2', 'Matemáticas', '¿Cuál es el seno de 180 (en grados)?', '3.14', '1', '0', '90', '0']
+['3', 'Ciencias', 'Compuesto del agua.', 'br', 'Na', 'H2O', 'K', 'H2O']
+['4', 'Lectura', 'Exageración en la poesía.', 'hipérbole', 'verso', 'estrofa', 'onomatopeya', 'hipérbole']
+['5', 'Matemáticas', 'Despeja x.  8x^2 + 4 = 65/2', '3.5625', '2.7837', '1.5250', '1.8875', '1.8875']
+['6', 'Ciencias', '¿Cuál es la velocidad de la luz?', '300000km/hr', '200000km/hr', '280000km/hr', '50000kmhr', '300000km/hr']
+['7', 'Matemáticas', 'Resuelve: 8(64-30*2) - 3', '520', '541', '29', '46', '29']
+['8', 'Matemáticas', 'Si n vale 3 ¿cuánto es 4^n?', '12', '16', '168', '64', '64']
